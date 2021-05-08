@@ -1,0 +1,4 @@
+*.log
+error1.ppt
+/new_dir/
+outer_dir/new_dir
